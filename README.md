@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Mac 👋
+
+I'm an MComp Computer Science student at the [University of Sheffield](https://www.sheffield.ac.uk/dcs). I'm highly interested in Cybersecurity and Formal Logic, and I'm currently researching ways to generate Domain-Specific Languages with Isabelle for my Dissertation project.
+
+I've just finished a Year in Industry placement in public-sector Cybersecurity, and recently gained my Offensive Security Certified Professional (OSCP) certification. I love to create educational resources and challenges in Cybersecurity, and help to run the [Sheffield Ethical Student Hackers](https://shefesh.com) society in my spare time.
+
+Feel free to contact me on [Twitter](https://twitter.com/mac__goodwin), or take a look at [my site](https://www.mac-goodwin.com/) for more information about my various projects.
 
 <!--
 **Twigonometry/Twigonometry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
