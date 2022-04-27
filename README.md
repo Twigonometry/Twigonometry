@@ -6,7 +6,7 @@ I've just finished a Year in Industry placement in public-sector Cybersecurity, 
 
 - 🔭 I’m currently working on [Code Generation from Isabelle](https://github.com/Twigonometry/IsabelleDSL), a DIY Alexa for my [Internet of Things](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3505.html) Module, and an agent-based model of disease spread for [Modelling and Simulation of Natural Systems](http://www.dcs.sheffield.ac.uk/intranet/teaching/public/modules/level3/com3001.html)
 - 💬 I like to program in Python, C, Haskell, and PHP
-- - 🌱 I’m currently learning about malware, making CTF challenges, and mathematical modelling
+- 🌱 I’m currently learning about malware, making CTF challenges, and mathematical modelling
 
 Feel free to contact me on [Twitter](https://twitter.com/mac__goodwin), or take a look at [my site](https://www.mac-goodwin.com/) for more information about my various projects.
 
