@@ -4,7 +4,7 @@ I'm an MComp Computer Science student at the [University of Sheffield](https://w
 
 I've just finished a Year in Industry placement in public-sector Cybersecurity, and recently gained my Offensive Security Certified Professional (OSCP) certification. I love to create educational resources and challenges in Cybersecurity, and help to run the [Sheffield Ethical Student Hackers](https://shefesh.com) society in my spare time.
 
-- 🔭 I’m currently working on [Code Generation from Isabelle](https://github.com/Twigonometry/IsabelleDSL), a DIY Alexa for my [Internet of Things](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3505.html) Module, and an agent-based model of disease spread for [Modelling and Simulation of Natural Systems](http://www.dcs.sheffield.ac.uk/intranet/teaching/public/modules/level3/com3001.html)
+- 🔭 I’m currently working on [Code Generation from Isabelle](https://github.com/Twigonometry/IsabelleDSL), a [DIY Alexa](https://iot.unphone.net/#diy-alexa) for my [Internet of Things](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3505.html) Module, and an agent-based model of disease spread for [Modelling and Simulation of Natural Systems](http://www.dcs.sheffield.ac.uk/intranet/teaching/public/modules/level3/com3001.html)
 - 💬 I like to program in Python, C, Haskell, and PHP
 - 🌱 I’m currently learning about malware, making CTF challenges, and mathematical modelling
 
