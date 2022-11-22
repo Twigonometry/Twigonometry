@@ -1,12 +1,15 @@
 ### Hi, I'm Mac 👋
 
-I'm an MComp Computer Science student at the [University of Sheffield](https://www.sheffield.ac.uk/dcs). I'm highly interested in Cybersecurity, Mathematical and Agent-Based modelling, Machine Learning, and Formal Logic. I'm currently researching ways to generate Domain-Specific Languages with Isabelle for my [Dissertation project](https://github.com/Twigonometry/IsabelleDSL).
+I'm an MSc Cybersecurity & AI student at the [University of Sheffield](https://www.sheffield.ac.uk/dcs). I'm highly interested in Cybersecurity, Machine Learning, Mathematical and Agent-Based modelling, and Formal Logic.
 
-I've just finished a Year in Industry placement in public-sector Cybersecurity, and recently gained my Offensive Security Certified Professional (OSCP) certification. I love to create educational resources and challenges in Cybersecurity, and help to run the [Sheffield Ethical Student Hackers](https://shefesh.com) society in my spare time.
+I also did my Undergraduate BSc Computer Science with a Year in Industry at Sheffield. For my [Undergraduate Dissertation](https://github.com/Twigonometry/IsabelleDSL) I researched ways to generate Domain-Specific Languages with Isabelle.
 
-- 🔭 I’m currently working on writing lots of (deliberately) vulnerable code for hacking challenges, but will be restarting university projects soon!
-- 💬 I like to program in Python, C, Haskell, and PHP
-- 🌱 I’m currently learning about malware, making CTF challenges, and mathematical modelling
+I've just finished a summer placement at BT doing threat modelling, and have my Offensive Security Certified Professional (OSCP) and AWS Certified Cloud Practitioner certifications. I love to create educational resources and challenges in Cybersecurity, and help to run the [Sheffield Ethical Student Hackers](https://shefesh.com) society in my spare time.
+
+- 🔭 I’m currently working on assignments including Linear Cryptanalysis, Convolutional Neural Networks, and Digital Forensics cases; as well as a project proposal for using Adversarial Learning to detect phishing emails
+- ⌨️ I like to program in Python, C, Haskell, and PHP
+- 🌱 I’m currently learning about malware, making CTF challenges, and keeping up my data science and cloud skills
+- 🎓 I am currently looking for a graduate position, starting in October 2023
 
 Feel free to contact me on [Twitter](https://twitter.com/mac__goodwin), or take a look at [my site](https://www.mac-goodwin.com/) for more information about my various projects.
 
