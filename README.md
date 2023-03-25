@@ -6,7 +6,7 @@ I also did my Undergraduate BSc Computer Science with a Year in Industry at Shef
 
 I've just finished a summer placement at BT doing threat modelling, and have my Offensive Security Certified Professional (OSCP) and AWS Certified Cloud Practitioner certifications. I love to create educational resources and challenges in Cybersecurity, and help to run the [Sheffield Ethical Student Hackers](https://shefesh.com) society in my spare time.
 
-- 🔭 I’m currently working on assignments including Linear Cryptanalysis, Convolutional Neural Networks, and Digital Forensics cases; as well as a dissertation using [Adversarial Learning to Detect and Generate Phishing Emails](https://github.com/Twigonometry/Phishing-ML)
+- 🔭 I’m currently working on assignments including Embedded Systems security, Language Models with Embeddings, and [scalable machine learning](https://github.com/Twigonometry/ScalableML) with PySpark; as well as a dissertation using [Adversarial Learning to Detect and Generate Phishing Emails](https://github.com/Twigonometry/Phishing-ML)
 - ⌨️ I like to program in Python, C, Haskell, and PHP
 - 🌱 I’m currently learning about malware, making CTF challenges, and keeping up my data science and cloud skills
 - 🎓 I will be graduating in October 2023
